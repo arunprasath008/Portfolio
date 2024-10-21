@@ -1,6 +1,5 @@
 # Portfolio
 My name is Arun prasath N
-![Arun Prasath](https://github.com/user-attachments/assets/feacbe51-ecc0-4d39-a19a-4e7c67fa827c)
 [GitHub](https://github.com/arunprasath008)
 **About Me**:
 Im a Final year currently in the field of Artificial intelligence and adata science.
